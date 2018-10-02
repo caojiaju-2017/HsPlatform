@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="87c1ffde-7b69-4a04-9c7e-f063aada986e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Platform$MessageType.coverage" NAME="MessageType Coverage Results" MODIFIED="1533886335347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/ProtocolHelper" />
+    <SUITE FILE_PATH="coverage/Platform$MonitorHelper__1_.coverage" NAME="MonitorHelper (1) Coverage Results" MODIFIED="1533351812656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper" />
+    <SUITE FILE_PATH="coverage/Platform$MonitorHelper.coverage" NAME="MonitorHelper Coverage Results" MODIFIED="1534750599638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper" />
+    <SUITE FILE_PATH="coverage/Platform$MonitorActivityHook.coverage" NAME="MonitorActivityHook Coverage Results" MODIFIED="1535620225929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper" />
+    <SUITE FILE_PATH="coverage/Platform$ProtocolBase.coverage" NAME="ProtocolBase Coverage Results" MODIFIED="1533867451615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/ProtocolHelper" />
+    <SUITE FILE_PATH="coverage/Platform$UtilHelper.coverage" NAME="UtilHelper Coverage Results" MODIFIED="1536290765432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base" />
+    <SUITE FILE_PATH="coverage/Platform$ExcelHelper.coverage" NAME="ExcelHelper Coverage Results" MODIFIED="1538277717525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/DocumentHelper" />
+    <SUITE FILE_PATH="coverage/Platform$OutPutHelp.coverage" NAME="OutPutHelp Coverage Results" MODIFIED="1534120497085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base" />
+    <SUITE FILE_PATH="coverage/Platform$NetHelperEx.coverage" NAME="NetHelperEx Coverage Results" MODIFIED="1534737428909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/NetHelper" />
+    <SUITE FILE_PATH="coverage/Platform$ProcessHelper.coverage" NAME="ProcessHelper Coverage Results" MODIFIED="1536896412647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base" />
+    <SUITE FILE_PATH="coverage/Platform$NetHelper.coverage" NAME="NetHelper Coverage Results" MODIFIED="1531621470504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetHelper" />
+    <SUITE FILE_PATH="coverage/Platform$MysqlHelper.coverage" NAME="MysqlHelper Coverage Results" MODIFIED="1538274715401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/DatebaseHelper" />
+    <SUITE FILE_PATH="coverage/Platform$getTest.coverage" NAME="getTest Coverage Results" MODIFIED="1534585507559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/NetHelper" />
+    <SUITE FILE_PATH="coverage/Platform$ProTerminalList.coverage" NAME="ProTerminalList Coverage Results" MODIFIED="1533873254306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols" />
+    <SUITE FILE_PATH="coverage/Platform$ProFaceBroadcast.coverage" NAME="ProFaceBroadcast Coverage Results" MODIFIED="1533888391809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols" />
+    <SUITE FILE_PATH="coverage/Platform$NetHelper__1_.coverage" NAME="NetHelper (1) Coverage Results" MODIFIED="1534585819081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ByPlatform/Base/NetHelper" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1435573689">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.115" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bat" value="4" />
+          <entry key="py" value="298" />
+          <entry key="readme" value="1" />
+          <entry key="requirment" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="298" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="bat" value="4" />
+          <entry key="dummy" value="24" />
+          <entry key="py" value="19660" />
+          <entry key="readme" value="20" />
+          <entry key="requirment" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="Python" value="19660" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.38845655">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="helper.txt" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/helper.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MysqlHelper.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlHelper.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="134">
+                  <caret line="105" selection-start-line="105" selection-end-line="105" />
+                  <folding>
+                    <element signature="e#42#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/setup.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="291">
+                  <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MysqlConnectInfo.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlConnectInfo.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="133">
+                  <caret line="7" column="22" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="22" />
+                  <folding>
+                    <element signature="e#42#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="ExcelHelper.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/ByPlatform/DocumentHelper/ExcelHelper.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="267">
+                  <caret line="96" column="19" lean-forward="true" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#42#56#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1030</find>
+      <find>2080</find>
+      <find>2050</find>
+      <find>2060</find>
+      <find>1150</find>
+      <find>1160</find>
+      <find>1170</find>
+      <find>MessageType.getMessageType(</find>
+      <find>print</find>
+      <find>OutPutHelper.consolePrint</find>
+      <find>该记录丢弃</find>
+      <find>__loadBody</find>
+      <find>version</find>
+      <find>except:</find>
+      <find>except Exceptio</find>
+      <find>type(</find>
+      <find>Create DB</find>
+      <find>QMessageBox.questio</find>
+      <find>InsertData</find>
+      <find>Custom</find>
+      <find>responseUdpService</find>
+      <find>SysConfig.LobbyManagerList</find>
+      <find>CustomModel</find>
+      <find>getLocalCustoms</find>
+      <find>loadFromMsg</find>
+      <find>lam</find>
+      <find>ProtocolBase</find>
+      <find>TimeKeeping</find>
+      <find>insert</find>
+      <find>lambda</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\ProtocolHelper</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomActivitysList.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/OutPut.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/OutPutHelp.py" />
+        <option value="$PROJECT_DIR$/build/lib/ByPlatform/ProtocolHelper/ProtocolBase.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/MonitorHelper.py" />
+        <option value="$PROJECT_DIR$/build/lib/ByPlatform/Base/MonitorHelper/TimeKeeping.py" />
+        <option value="$PROJECT_DIR$/autoinstall36.bat" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/__init__.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/NetHelper/getTest.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/NetHelper/NetHelperEx.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCloseStream.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomActivitys.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomStayStats.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProOpenStream.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProSetTerminalWorkTime.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/StringHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProTerminalUsage.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/StorageHelper/StorageHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/StorageHelper/StorageType.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/StorageHelper/ReadDataHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProUpdateCustomInfoBroadcast.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DeviceHelper/ComHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/TimeKeeping.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProTerminalList.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProtocolBase.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomList.py" />
+        <option value="$PROJECT_DIR$/build/lib/ByPlatform/ProtocolHelper/Protocols/ProFaceBroadcast.py" />
+        <option value="$PROJECT_DIR$/build/lib/ByPlatform/Base/NetHelper/NetHelperEx.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProFaceBroadcast.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProFaceImport.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/NetHelper/NetHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageType.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageDefine.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/NetHelper/UrlHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/ProtocolHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/StorageHelper/Model/CustomModel.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/UtilHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/MonitorActivityHook.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/LoggerHelper/LoggerHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/OutPutHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/TimeHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DeviceHelper/IDCardHelper/readme" />
+        <option value="$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomStats.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DeviceHelper/IDCardHelper/IDCardData.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/ProcessHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/Base/FileAndDirect.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlConnectInfo.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DatebaseHelper/helper.txt" />
+        <option value="$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlHelper.py" />
+        <option value="$PROJECT_DIR$/ByPlatform/DocumentHelper/ExcelHelper.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="831" />
+    <option name="y" value="239" />
+    <option name="width" value="1695" />
+    <option name="height" value="535" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ByPlatform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ByPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="DatebaseHelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Platform" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="ByPlatform" type="462c0819:PsiDirectoryNode" />
+              <item name="DocumentHelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ERPShare/Code" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\ProtocolHelper\Protocols" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\Base" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Work\National\Smart\Platform\ByPlatform\DocumentHelper" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\DocumentHelper" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\DeviceHelper\IDCardHelper" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform\ProtocolHelper\Protocols" />
+      <recent name="D:\Work\SVNRep\BYSmartPlatform\4.Code\Smart\Platform\ByPlatform" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ExcelHelper">
+    <configuration name="ExcelHelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByPlatform/DocumentHelper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByPlatform/DocumentHelper/ExcelHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MonitorActivityHook" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/MonitorActivityHook.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="MysqlHelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByPlatform/DatebaseHelper" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ProcessHelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByPlatform/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByPlatform/Base/ProcessHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="UtilHelper" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Platform" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ByPlatform/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ByPlatform/Base/UtilHelper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MonitorActivityHook" />
+      <item itemvalue="Python.UtilHelper" />
+      <item itemvalue="Python.ProcessHelper" />
+      <item itemvalue="Python.ExcelHelper" />
+      <item itemvalue="Python.MysqlHelper" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ExcelHelper" />
+        <item itemvalue="Python.MysqlHelper" />
+        <item itemvalue="Python.ProcessHelper" />
+        <item itemvalue="Python.UtilHelper" />
+        <item itemvalue="Python.MonitorActivityHook" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\caojiaju\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c1ffde-7b69-4a04-9c7e-f063aada986e" name="Default" comment="" />
+      <created>1531531087313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531531087313</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3140625" side_tool="true" visible="true" weight="0.36114043" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6859375" weight="0.36114043" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.33694476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.196875" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49947917" weight="0.32910052" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.62864584" weight="0.51953536" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProtocolBase.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProTerminalList.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProFaceBroadcast.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageDefine.py</url>
+          <line>84</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageDefine.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProtocolBase.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProtocolBase.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/StorageHelper/ReadDataHelper.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomStats.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/StorageHelper/Model/CustomModel.py</url>
+          <line>208</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProUpdateCustomInfoBroadcast.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomList.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomList.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomList.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/Base/OutPutHelper.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ByPlatform/Base/OutPutHelper.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="results" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ByPlatform/StorageHelper/WithXIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/StorageHelper/ReadDataHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-762174762/__builtin__.py" />
+    <entry file="file://C:/Python27/Lib/site-packages/pythoncom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProtocolBase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/lib/ByPlatform/ProtocolHelper/Protocols/ProFaceBroadcast.py" />
+    <entry file="file://$PROJECT_DIR$/build/lib/ByPlatform/Base/MonitorHelper/TimeKeeping.py" />
+    <entry file="file://$PROJECT_DIR$/build/lib/ByPlatform/ProtocolHelper/Protocols/ProTerminalList.py" />
+    <entry file="file://$PROJECT_DIR$/build/lib/ByPlatform/Base/NetHelper/NetHelperEx.py" />
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/NetHelper/NetHelperEx.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="893">
+          <caret line="49" column="76" selection-start-line="49" selection-start-column="76" selection-end-line="49" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/NetHelper/NetHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCloseStream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomActivitys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProFaceBroadcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProOpenStream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProTerminalUsage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProUpdateCustomInfoBroadcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="54" column="52" selection-start-line="54" selection-start-column="52" selection-end-line="54" selection-end-column="52" />
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProSetTerminalWorkTime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProTerminalList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/TimeHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DeviceHelper/IDCardHelper/IDCardReadByUSB.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/MonitorActivityHook.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DeviceHelper/ComHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="53" column="21" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/LoggerHelper/LoggerHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="64" column="7" selection-start-line="64" selection-start-column="7" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/NetHelper/UrlHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/StorageHelper/Model/CustomModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#42#92#0" expanded="true" />
+            <marker date="1536375436985" expanded="true" signature="227:232" ph="..." />
+            <marker date="1536375436985" expanded="true" signature="1169:1692" ph="..." />
+            <marker date="1536375436985" expanded="true" signature="1733:2176" ph="..." />
+            <marker date="1536375436985" expanded="true" signature="3189:3524" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1083">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="52" column="22" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="22" />
+          <folding>
+            <element signature="e#41#95#0" expanded="true" />
+            <marker date="1536639674015" expanded="true" signature="684:1783" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProCustomStayStats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="62" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DeviceHelper/IDCardHelper/readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/StorageHelper/StorageHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#41#82#0" expanded="true" />
+            <element signature="e#2066#2567#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/StorageHelper/StorageType.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/MonitorHelper/TimeKeeping.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoinstall27.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/UtilHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding>
+            <element signature="e#41#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/MessageDefine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/Protocols/ProFaceImport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/ProtocolHelper/ProtocolHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="63" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/OutPutHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#41#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/FileAndDirect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1444">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
+          <folding>
+            <marker date="1538014253146" expanded="true" signature="91:96" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/win32com/client/dynamic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="526" selection-start-line="526" selection-end-line="526" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DeviceHelper/IDCardHelper/IDCardData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4313">
+          <caret line="232" column="19" selection-start-line="232" selection-start-column="19" selection-end-line="232" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/helper.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/ProcessHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-406">
+          <caret selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+            <marker date="1536896718910" expanded="true" signature="296:297" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/Base/StringHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlConnectInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="50" column="20" lean-forward="true" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DatebaseHelper/MysqlHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ByPlatform/DocumentHelper/ExcelHelper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="96" column="19" lean-forward="true" selection-start-line="96" selection-start-column="19" selection-end-line="96" selection-end-column="19" />
+          <folding>
+            <element signature="e#42#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
