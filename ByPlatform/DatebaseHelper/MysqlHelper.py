@@ -117,12 +117,12 @@ class MysqlHelper(object):
 
                 for index,oneColValue in enumerate(row):
                     oneRowDict[queryResultFields[index]] = oneColValue
-                    if queryResultFields[index] == "FName":
-                        print oneColValue
+                    # if queryResultFields[index] == "FName":
+                    #     OutPutHelper.consolePrint(str(oneColValue) )
 
                 rtnResult.append(oneRowDict)
         except Exception as ex:
-            print "Error: unable to fecth data"
+            OutPutHelper.consolePrint( "Error: unable to fecth data")
 
         return rtnResult
 
@@ -136,4 +136,4 @@ if __name__ == "__main__":
     connectHandle = MysqlHelper(cntInfo)
     connectHandle.openDb()
 
-    print connectHandle.queryRecords("table_metadata")
+    connectHandle.queryRecords("table_metadata")
