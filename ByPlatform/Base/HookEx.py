@@ -123,6 +123,7 @@ def main():
     # 进入循环，如不手动关闭，程序将一直处于监听状态     
     pythoncom.PumpMessages()
 
-
+def testFunction():
+    pass
 if __name__ == "__main__":
     main()

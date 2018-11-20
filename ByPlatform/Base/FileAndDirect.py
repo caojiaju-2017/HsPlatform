@@ -74,3 +74,7 @@ class FileAndDirect(object):
         filename = filename
         with open(filename, 'w') as f:  # 如果filename不存在会自动创建， 'w'表示写数据，写之前会清空文件中的原有数据！
             f.write(content)
+
+    @staticmethod
+    def testFunction():
+        pass
